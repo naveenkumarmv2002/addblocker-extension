@@ -17,3 +17,4 @@ A lightweight browser extension built using Java that blocks intrusive ads and t
 - GUI (Optional: JavaFX or Swing for settings panel)
 
 
+https://naveenkumarmv2002.github.io/addblocker-extension/
